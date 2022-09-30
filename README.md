@@ -5,7 +5,7 @@ The purpose of this analyis was to use matplotlib to analyze data and create com
 
 ## Results
 
-From the data obtained in thesummary DataFrame (Summary DataFrame.png), the urban city types had the highest amount of drivers and rides in total followed by the suburban and finally the rural had the least of all 3. From the line graph plotted (PyBer_fare_summary.png), the total fares over time between all three city types also correlate with the previous results - the highest fare amounts belong to the urban city type followed by the suburban and finally the rural respectively. 
+From the data obtained in thesummary DataFrame (analysis/Summary DataFrame.png), the urban city types had the highest amount of drivers and rides in total followed by the suburban and finally the rural had the least of all 3. From the line graph plotted (analysis/PyBer_fare_summary.png), the total fares over time between all three city types also correlate with the previous results - the highest fare amounts belong to the urban city type followed by the suburban and finally the rural respectively. 
 The rural city types had the highest average fares of all three for both per ride and per driver. These results could be explained by the fact that riders in the rural and suburban city types are willing to pay higher fares due to the driver count not being very high as in the case of the urban cities.
 
 ## Summary
